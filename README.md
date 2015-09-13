@@ -1,3 +1,2 @@
 # hello-world
-This is my first git repo
 Its been a while since I last coded. Things have changed...
