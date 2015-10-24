@@ -3,7 +3,7 @@
 ### An old school programmer
 ### Trying to get use to all the new things
 Its been a while since I last coded. Things have changed...
-* more collaboration
-* open source
-* lots of knowledge available
-* Simple but confusing
+* More collaboration;
+* Open source;
+* Lots of knowledge available;
+* Simple but confusing.
